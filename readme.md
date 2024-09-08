@@ -74,3 +74,6 @@ To contribute to Starknet Frontend Workshop, follow these steps:
 6. Open a Pull Request to propose your changes to the original project.
 
 Let's get started!
+
+<img width="575" alt="Screenshot 2024-09-08 at 18 28 35" src="https://github.com/user-attachments/assets/0cc190a5-740a-4ea6-b92f-b5c48c256ff5">
+
